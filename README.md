@@ -1,6 +1,6 @@
 # V2Ray Heroku
 
-**由于 Heroku 已经封禁本项目，请 Fork 本项目后，修改 README.md 中的部署链接为自己的用户名后，再进行部署。**
+**Fork bclswl0827/v2ray-heroku。**
 
 ## 概述
 
@@ -16,7 +16,7 @@
 
 本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbclswl0827%2Fv2ray-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FLanmeiCN%2Fv2rayku)
 
 ## ENV 设定
 
