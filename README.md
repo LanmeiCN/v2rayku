@@ -1,6 +1,6 @@
 # V2Ray Heroku
 
-**Fork bclswl0827/v2ray-heroku。**
+**Fork,Powered By bclswl0827(bclswl0827/v2ray-heroku)。**
 
 ## 概述
 
